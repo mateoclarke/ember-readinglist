@@ -1,5 +1,6 @@
 my ember reading list
 ===========
+Live at <http://mateoclarke.com/books/>
 
 A reading list app to keep track of books I've read.
 
